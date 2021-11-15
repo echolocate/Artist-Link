@@ -1,0 +1,6 @@
+* As a band we want to add our details to available bands list so that we are visible to agents (CREATE)
+* As a band we want to review our entry so that our information is correct (READ)
+* As a band we want to be able to change details (band members/name) so that is information is always accurrate (UPDATE)
+* As an band/agent we want the band entry deleted when signed so that the band is no longer available (DELETE)
+* As an agent I want to add my details to available agents list so that I we are visible to bands (CREATE)
+* As a agent I want to review/change my entry so that our information is correct (UPDATE)
