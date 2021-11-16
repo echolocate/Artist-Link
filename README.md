@@ -54,3 +54,6 @@ The ERD can be found here:
 * As an band/agent we want the band entry deleted when signed so that the band is no longer available (DELETE)
 * As an agent I want to add my details to available agents list so that I we are visible to bands (CREATE)
 * As a agent I want to review/change my entry so that our information is correct (UPDATE)
+
+## Risk assessment
+* Loss of ssh keys
