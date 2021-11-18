@@ -41,7 +41,8 @@ DELETE capability would be shown when the band decides on an agent, their accoun
 
 When an agent wants to see the pool of talent or vice versa, the app would display a list of available agents/bands, requiring READing from the database.
 
-The ERD can be found here: 
+The ERD can be found here:
+
 (JPEG)  https://1drv.ms/u/s!Aq2hJel0GwxWqROWlhU1dkRf4liU?e=sPltJX
 
 (PDF)   https://1drv.ms/b/s!Aq2hJel0GwxWqRQ1y8tfA90NCkyq?e=9tV776
