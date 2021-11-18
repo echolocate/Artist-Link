@@ -43,9 +43,9 @@ When an agent wants to see the pool of talent or vice versa, the app would displ
 
 The ERD can be found here: 
 
-(JPEG)  https://1drv.ms/u/s!Aq2hJel0GwxWpCG6pbWS-pBpEUQM?e=8Xdjoj
+(JPEG)  https://1drv.ms/u/s!Aq2hJel0GwxWqROWlhU1dkRf4liU?e=sPltJX
 
-(PDF)   https://1drv.ms/b/s!Aq2hJel0GwxWpCIA6VLs0hl0AQSp?e=aOc4Kz
+(PDF)   https://1drv.ms/b/s!Aq2hJel0GwxWqRQ1y8tfA90NCkyq?e=9tV776
 
 ## User stories
 * As a band we want to add our details to available bands list so that we are visible to agents (CREATE)
