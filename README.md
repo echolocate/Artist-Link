@@ -43,7 +43,7 @@ When an agent wants to see the pool of talent or vice versa, the app would displ
 
 The ERD can be found here:
 
-(JPEG)  https://1drv.ms/u/s!Aq2hJel0GwxWqROWlhU1dkRf4liU?e=sPltJX
+(JPEG)  https://1drv.ms/u/s!Aq2hJel0GwxWqRqEW1CrkpzXYRpt?e=0GdQUT
 
 (PDF)   https://1drv.ms/b/s!Aq2hJel0GwxWqRvgNEhCGyG470wT?e=TzI5NU
 
